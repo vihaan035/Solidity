@@ -3,9 +3,9 @@ const Web3 = require('web3');
 const { interface, bytecode } = require('./compile');
 
 const provider = new HDWalletProvider(
-  '0x2A28a07dBde15F484b0ecedF24C4597672205153',
+  'wheat speed much embrace wool girl hidden nation answer comfort snack reflect',
+  'https://sepolia.infura.io/v3/5fa689a24e9f4deaaeba53dbd101ad99',
   // remember to change this to your own phrase!
-  'https://goerli.infura.io/v3/2b592848179348fc8df856eb760c49d5'
   // remember to change this to your own endpoint!
 );
 const web3 = new Web3(provider);
